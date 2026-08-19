@@ -32,6 +32,11 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.js';
 import { Navbar } from 'react-bootstrap';
 import Navbar1 from './Components/Navbar1'
+import Hero from './Components/Hero'
+import Cards from './Components/Cards'
+
+
+
 
 function App() {
 
@@ -40,8 +45,8 @@ function App() {
     <>
 
 <Navbar1  />
-
-
+<Hero  />
+<Cards  />
 
 
     </>
