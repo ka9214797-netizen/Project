@@ -7,7 +7,7 @@ import Contact from '../Pages/Contact';
 import logo from '../assets/logo.jpg';
 import { Routes ,Route, Link,NavLink, BrowserRouter} from 'react-router-dom';
 import Home from '../Pages/Home';
-import Product from '../Pages/Product'
+ import Product from '../Pages/Product'
 import Nightcream from '../assets/Nightcream.webp'
 import card from '../assets/image 2.webp'
 
